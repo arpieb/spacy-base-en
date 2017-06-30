@@ -1,8 +1,9 @@
 # spacy-base-en
 Docker container definition:
 
-* Arch Linux
-* spaCy NLP parser package
+* Alpine Linux 3.6
+* Python 2.7
+* [spaCy](https://spacy.io/) 1.8.2 NLP parser package
 * spaCy EN language pack
 
 ## Source
